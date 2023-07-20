@@ -9,7 +9,7 @@
 
 - 👯 I’m collaborate on [Binar Intro Collaboration](https://github.com/rizalrahmatulloh/binar-intro-collaboration.git)
 
-- 📫 How to reach me **rizalrahmatulloh@gmail.com**
+- 📫 How to reach me **rizalrahmatulloh99@gmail.com**
 
 <h3 align="left">Connect with me: LinkedIn, Instagram, Twitter, Email.</h3>
 <p align="left">
