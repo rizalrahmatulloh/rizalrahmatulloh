@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 😊, I'm Rizal Rahmatulloh</h1>
-<h3 align="center">I'm an auditor at Public Accounting Firm in Bandung, Indonesia. I'm prepering myself to be a Fullstack Developer.</h3>
+<h3 align="center">I'm an Accounting Staff at Real Estate Developer Company in Indonesia. I'm prepering myself to be a Fullstack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalrahmatulloh&label=Profile%20views&color=0e75b6&style=flat" alt="rizalrahmatulloh" /> </p>
 
