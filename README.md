@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalrahmatulloh&label=Profile%20views&color=0e75b6&style=flat" alt="rizalrahmatulloh" /> </p>
 
-- 🔭 I’m currently working at [KBS](Private)
+- 🔭 I’m currently working at Real Estate Company
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Git, Etc**
 
